@@ -1,4 +1,4 @@
-# InfiniteList is a infinite scrollable list with javascript
+# InfiniteList is a infinite scrollable list in javascript
 
 ```Typescript
 
