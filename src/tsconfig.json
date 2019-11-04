@@ -1,0 +1,17 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "noEmitOnError": true,
+
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "strictNullChecks": false,
+
+    "sourceMap": true,
+    "target": "es3",
+    "removeComments": true,
+    "lib": [ "es5", "dom", "es2015.promise" ]
+  },
+  "include": [ "*" ]
+}
